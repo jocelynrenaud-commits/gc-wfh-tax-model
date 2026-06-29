@@ -1,0 +1,7 @@
+{
+  "version": "1.0",
+  "released": "2026-06-28",
+  "name": "Workforce Housing - Tax Modeling Application",
+  "url": "https://jocelynrenaud-commits.github.io/gc-wfh-tax-model/",
+  "notes": "First community release. Federal-only model: 168(k) bonus depreciation, 461(l) loss cap and NOL, 1245 recapture, interest-only vs pay-down loan, Tax Waterfall bracket analysis. Verified against Rev. Proc. 2025-32 and OBBBA."
+}
